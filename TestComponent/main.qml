@@ -1,5 +1,5 @@
 import QtQuick
-import TestItem 1.0
+import Components 1.0
 Window {
     width: 640
     height: 480
